@@ -1,4 +1,4 @@
 *.jpg filter=lfs diff=lfs merge=lfs -text
 *.png filter=lfs diff=lfs merge=lfs -text
 Dizin2/* filter=lfs diff=lfs merge=lfs -text
-Dizin3/* filter=lfs diff=lfs merge=lfs -text
+Dizin3/** filter=lfs diff=lfs merge=lfs -text
